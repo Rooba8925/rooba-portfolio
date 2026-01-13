@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rooba-portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/rooba-portfolio/static/js/main.376ff551.js",
+    "static/js/453.03de67ce.chunk.js": "/rooba-portfolio/static/js/453.03de67ce.chunk.js",
+    "index.html": "/rooba-portfolio/index.html",
+    "main.e6c13ad2.css.map": "/rooba-portfolio/static/css/main.e6c13ad2.css.map",
+    "main.376ff551.js.map": "/rooba-portfolio/static/js/main.376ff551.js.map",
+    "453.03de67ce.chunk.js.map": "/rooba-portfolio/static/js/453.03de67ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.376ff551.js"
+  ]
+}
